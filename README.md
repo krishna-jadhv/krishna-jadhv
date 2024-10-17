@@ -64,9 +64,7 @@
 
 <h2 align="center">🎯 Fun Facts About Me</h2>
 <p align="center" style="font-size: 16px;">
-  🚴 I'm passionate about fitness. <br>
-  🎮 I love playing video games and exploring new softwares in my spare time. <br>
-  🌎 I’m constantly looking for opportunities to contribute to open-source projects.
+  My Dog name is Google :))
 </p>
 
 ---
